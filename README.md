@@ -4,5 +4,5 @@ Scatch project for CS50's Problem Set 0.
 
 ## Credits and Rights
 
-Pet sprite created by https://stock.adobe.com/search?k=sprite+sheet+animal&asset_id=231440678
+Pet sprite created by [pzUH](https://stock.adobe.com/search?k=sprite+sheet+animal&asset_id=231440678)
 Sound effects sourced from Scratch sound library, free to use.
